@@ -16,6 +16,8 @@ Things you may want to cover:
 
 * Rails version 5.2.4.5
 
+* Front-end implementation with Semantic UI
+
 * System dependencies
 
 * Configuration
