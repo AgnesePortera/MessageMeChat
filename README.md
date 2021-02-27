@@ -18,7 +18,7 @@ Things you may want to cover:
 
 * Front-end implementation with Semantic UI
 
-* System dependencies
+* MVC: User has_many messages 
 
 * Configuration
 
