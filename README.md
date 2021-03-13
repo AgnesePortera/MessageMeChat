@@ -18,6 +18,8 @@ Things you may want to cover:
 
 * Front-end implementation with Semantic UI
 
+* WebSocket implementation with ActionCable for real-time chatroom
+
 * MVC: User has_many messages 
 
 * Configuration
@@ -32,4 +34,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+
