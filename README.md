@@ -6,11 +6,7 @@
 ![GitHub](https://img.shields.io/github/license/AgnesePortera/MessageChat?style=plastic)
 ![GitHub](https://img.shields.io/github/last-commit/AgnesePortera/MessageChat)
 
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+Real-time chat deployed with Ruby on Rails framework.
 
 * Ruby version 2.7.0
 
@@ -22,16 +18,38 @@ Things you may want to cover:
 
 * MVC: User has_many messages 
 
-* Configuration
+* Deployment suggested with *Heroku* platform
 
-* Database creation
+## Preview
+The message chat includes the following features:
+* Log in/Log out with session activities
+* Write messages in the chat
+* Real-time visualization of new messages with auto-scrolling
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+![preview gif](https://github.com/AgnesePortera/MessageMeChat/blob/master/app/assets/images/preview-chat.gif)
 
 
+### How to run the test suite
+For executing all the tests included in the project, run the following from the command window:
+
+`rails test`
+
+Instead if you want to execute a single test:
+
+`rails test test\models\message_test.rb`
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/AgnesePortera/MessageMeChat/.
+This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the
+[code of conduct](https://github.com/AgnesePortera/MessageMeChat/blob/master/CODE_OF_CONDUCT.md).
+
+## Code of Conduct
+
+Everyone interacting in the Notification Bot project's codebases, issue trackers, chat rooms and mailing lists is
+expected to follow
+the [code of conduct](https://github.com/AgnesePortera/MessageMeChat/blob/master/CODE_OF_CONDUCT.md).
+
+## License
+
+This project is distributed under _MIT_ license.
