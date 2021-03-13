@@ -2,9 +2,9 @@
 
 ![Ruby](https://img.shields.io/badge/Ruby-v2.7-red)
 ![RubyOnRails](https://img.shields.io/badge/RoR-5.2.4-red)
-![GitHub repo size](https://img.shields.io/github/repo-size/AgnesePortera/MessageChat)
-![GitHub](https://img.shields.io/github/license/AgnesePortera/MessageChat?style=plastic)
-![GitHub](https://img.shields.io/github/last-commit/AgnesePortera/MessageChat)
+![GitHub repo size](https://img.shields.io/github/repo-size/AgnesePortera/MessageMeChat)
+![GitHub](https://img.shields.io/github/license/AgnesePortera/MessageMeChat?style=plastic)
+![GitHub](https://img.shields.io/github/last-commit/AgnesePortera/MessageMeChat)
 
 Real-time chat deployed with Ruby on Rails framework.
 
